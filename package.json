@@ -1,0 +1,23 @@
+{
+  "name": "SQRIE",
+  "version": "1.0.0",
+  "description": "https://template-party.com/template/tp_biz48/tp_biz48_gray/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mycoplasmer/mycoplasmer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mycoplasmer/mycoplasmer/issues"
+  },
+  "homepage": "https://github.com/mycoplasmer/mycoplasmer#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
